@@ -1,0 +1,104 @@
+.ct {
+  font-size: 7vw !important;
+  color: white;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+#bg {
+  background-color: rgb(233, 15, 15);
+  border-radius: 25px;
+}
+
+
+
+#cardbod {
+  display: flex;
+  
+
+}
+
+#btn4 {
+  border: 1px solid white;
+  color: white;
+  background-color:  rgb(233, 15, 15);
+  border-radius: 8px;
+  width: 100%;
+}
+
+.span2 {
+  font-size: 1vw;
+}
+
+.span3{
+    font-size: 5vw;
+}
+
+#span1{
+    width: 40%;
+}
+
+#imgee{
+    width: 60%;
+}
+
+#im{
+    width: 158%;
+    height: 39vw;
+    margin-left: -21vw;
+}
+
+#spac{
+    width: 100%;
+}
+#s1{
+    font-size: 6vw;
+    color: white;
+}
+
+#s2{
+    font-size: 2vw;
+    color: white;
+  
+}
+
+#s0{
+    font-size: 2vw;
+    color: white;
+ 
+  
+}
+
+#s3{
+    font-size: 6vw;
+    color: white;
+    margin-left: 2vw;
+  
+}
+
+#s4{
+    font-size: 2vw;
+    color: white;
+  
+}
+
+#s5{
+    font-size: 6vw;
+    color: white;
+    margin-left: 2vw;
+}
+
+#s6{
+    font-size: 2vw;
+    color: white;
+}
+
+#s7{
+    font-size: 6vw;
+    color: white;
+    margin-left: 2vw;
+}
+
+#s8{
+    font-size: 2vw;
+    color: white;
+}

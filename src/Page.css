@@ -1,0 +1,188 @@
+
+.card {
+
+    padding: 3vw;
+  
+  }
+  
+  .hh1 {
+  
+    height: 30vw;
+  
+    border-radius: 1.5vw;
+  
+    width: 48%;
+  
+    background-color: white;
+  
+    float: left;
+  
+    box-shadow: 1vw;
+  
+  }
+  
+  .hh2 {
+  
+    float: right;
+  
+  
+    height: 30vw;
+  
+    width: 48%;
+  
+    border-radius: 1.5vw;
+  
+    background-color: rgb(66, 134, 66);
+  
+  }
+  
+  .hh {
+  
+    width: 100%;
+  
+    overflow: auto;
+  
+  }
+  
+  .bb {
+  
+    margin-top: 5vw;
+  
+    width: 90%;
+  
+    background-color: orangered;
+  
+    color: white;
+  
+    padding: 3vw;
+  
+    border-radius: 1.5vw;
+  
+  }
+  .cb{
+    text-align: center;
+    font-size: 2vw;
+  }
+  
+
+  
+  .lii {
+  
+    margin: 0;
+  
+    text-align: start;
+  
+    color: rgb(3, 148, 59);
+  
+    text-align: start;
+  
+  }
+  
+  .tg {
+  
+    text-align: center;
+      font-size: 2vw;
+  
+  }
+  
+  .lii {
+  
+    color: black;
+  
+  }
+  
+  .ff1 {
+  
+    height: 30vw;
+  
+    border-radius: 1vw;
+  
+    width: 49%;
+  
+  
+    float: left;
+  
+    margin-left: 0;
+  
+    overflow: auto;
+  
+  }
+  
+  
+  .ff2 {
+  
+    float: right;
+  
+  
+    height: 30vw;
+  
+    width: 49%;
+  
+  }
+  
+  .ff21 {
+  
+    height: 25vw;
+  
+    background-color: rgb(236, 197, 123);
+  
+  }
+  
+  .ft1 {
+  
+    background-color: rgb(235, 229, 229);
+  
+    margin: 0;
+  
+    height: 5vw;
+  
+    font-size: 2vw;
+    text-align: center;
+  
+  }
+  
+  .fi {
+  
+    border-radius: 50%;
+  
+    margin-top: 10%;
+  
+    justify-content: center;
+  
+    height: 70%;
+  
+    width: 100%;
+  
+  }
+  
+  .hat {
+  
+    padding: 3vw;
+  
+    width: 100%;
+  
+    height: 22vw;
+  
+  }
+  
+  .hat1 {
+  
+    height: 5vw;
+  
+  }
+  
+  .hat2 {
+  
+    height: 5vw;
+  
+    color: white;
+  
+  }
+  p{
+      text-align: center;
+      font-size: 2vw;
+  }
+  
+  #lst{
+    text-align: start;
+  }

@@ -1,0 +1,90 @@
+.fst{
+  width: 50%;
+  
+}
+
+#send{
+  width: 50%;
+ 
+}
+
+#main{
+  display: flex;
+  height: 32vh;
+}
+
+.btns{
+  width: 100%;
+  height: 8vh;
+  font-size: 2vw !important;
+  background-color: white !important;
+  color: black !important;
+  border-radius: 5px;
+
+}
+
+.btn1{
+  width: 100%;
+  height: 8vh;
+  font-size: 2vw !important;
+  border-radius: 5px;
+  background-color: #5aa5aa !important;
+}
+
+#juc{
+  height: 28vh;
+}
+#sp{
+  font-size: 1rem
+}
+
+#btn2{
+  width: 65%;
+  height: 10vh;
+  font-size: 2.5vw !important;
+  background-color: rgb(221, 212, 212) !important;
+  color: #3299a0  !important;
+  height: 15vh;
+  border: 0.3px transparent !important;
+  border-radius: 15px;
+ 
+  
+}
+
+#btn3{
+  height: 7vh;
+  background-color: rgb(247, 102, 6) !important;
+  width: 88%;
+  font-size: 2vw;
+
+}
+#span11{
+  color: #00a4af ;
+  text-decoration: underline;
+}
+
+
+
+#ull{
+  color: #3299a0;
+}
+.ctt{
+  color: black;
+  font-size: 2vw;
+  text-align: start;
+}
+.ct2{
+  color: black;
+}
+
+.ft{
+  font-size: 1.5vw;
+}
+.fr{
+  font-size: 5vw;
+  font-family: monospace;
+}
+
+.my{
+  font-size: 3vw;
+}
